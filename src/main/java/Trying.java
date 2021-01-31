@@ -5,7 +5,7 @@ public class Trying {
         //try what you seeqqqq ahah
         //dfjdjdj
 
-        System.out.println("This is my change Sunday from IntelliJ");
+        System.out.println("This is my change Sunday from InntelliJ");
     }
 
 
